@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "/Interaction-Design-Deploy/static/css/main.db13a739.chunk.css",
+    "main.js": "/Interaction-Design-Deploy/static/js/main.c560f20f.chunk.js",
+    "main.js.map": "/Interaction-Design-Deploy/static/js/main.c560f20f.chunk.js.map",
+    "runtime-main.js": "/Interaction-Design-Deploy/static/js/runtime-main.c65a3d0a.js",
+    "runtime-main.js.map": "/Interaction-Design-Deploy/static/js/runtime-main.c65a3d0a.js.map",
+    "static/js/2.2650e2d2.chunk.js": "/Interaction-Design-Deploy/static/js/2.2650e2d2.chunk.js",
+    "static/js/2.2650e2d2.chunk.js.map": "/Interaction-Design-Deploy/static/js/2.2650e2d2.chunk.js.map",
+    "index.html": "/Interaction-Design-Deploy/index.html",
+    "static/css/main.db13a739.chunk.css.map": "/Interaction-Design-Deploy/static/css/main.db13a739.chunk.css.map",
+    "static/js/2.2650e2d2.chunk.js.LICENSE.txt": "/Interaction-Design-Deploy/static/js/2.2650e2d2.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.c65a3d0a.js",
+    "static/js/2.2650e2d2.chunk.js",
+    "static/css/main.db13a739.chunk.css",
+    "static/js/main.c560f20f.chunk.js"
+  ]
+}
